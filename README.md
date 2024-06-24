@@ -10,7 +10,7 @@ Script ini untuk auto send ke banyak addres alias untuk GB
    
 2. Clone script
   ```bash
-  https://github.com/0xbb22/units-network.git
+  git clone https://github.com/0xbb22/units-network.git
   ```
 
 3. Install depensis
