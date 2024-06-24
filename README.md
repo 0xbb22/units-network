@@ -5,7 +5,7 @@ Script ini untuk auto send ke banyak addres alias untuk GB
 # Cara Install dan menggunkannya
 1. Install python
    ```pyhton
-   sudo apt update && sudo apt install python3
+   sudo apt update && sudo apt install python
    ```
    
 2. Clone script
