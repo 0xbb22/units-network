@@ -31,7 +31,7 @@ Script ini untuk auto send ke banyak addres alias untuk GB
    
 7. Jalankan Script
    ```python
-   python main.py
+   python3 main.py
    ```
 
 # Channel
